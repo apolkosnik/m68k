@@ -1,0 +1,2 @@
+Known bugs:
+	- Can't write data (LoadRD) to register D0 (0000).

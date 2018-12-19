@@ -1,0 +1,5 @@
+ADD #1,D3
+CMP #5,D3
+BEQ #2
+BRA #-8
+STOP
